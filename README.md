@@ -5,3 +5,6 @@ The Lorenz equations are a set of three differential equations that model the be
 [Lorenz 1963 paper](https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/lorenz-1963.pdf)
 
 <img src="https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/Project%20logo.jpg" alt="GitHub Logo" width="300" height="300" />
+
+## MATLAB Code
+This project is done in MATLAB. So it is must to install MATLAB or use it online.
