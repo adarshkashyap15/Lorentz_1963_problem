@@ -12,5 +12,6 @@ You can install it using the link [MATLAB](https://www.mathworks.com/products/ma
 
 ## Main Code
 I have attached two MATLAB files.
-
+1. MATLAB script
+2. MATLAB Live script
 
