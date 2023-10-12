@@ -11,7 +11,7 @@ This project is done in MATLAB. So it is a must to install MATLAB or use it onli
 You can install it using the link [MATLAB](https://www.mathworks.com/products/matlab.html).
 
 ## Main Code
-There are two MATLAB files. The first file is main code that will give you butterfly like shape with video and second code is the MATLAB live script of the same code. MATLAB live script is an interactive way to present your code. It is just like Jupyter notebook for python where we can run codes in different cell with output of each cell presented alonside.
+There are two MATLAB files. The first file is main code that will give you butterfly like shape with video and second code is the MATLAB live script of the same code. MATLAB live script is an interactive way to present your code. It is just like Jupyter notebook for python where we can run codes in different cell with output of each cell presented alongside.
 1. [MATLAB Script](https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/Lorentz_problem_1963_multiple_conditions.m)
 2. [MATLAB Live Script](https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/Lorentz_problem_1963_multiple_conditions.mlx)
 
