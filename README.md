@@ -22,7 +22,7 @@ There are three MATLAB files. These files are functions which are called in the 
 3. [Lorenz equations for cube of initial conditions](https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/lorentz3d_function.m)
 
 ## Results
-The output of the MATLAB Script will be a video file. To view directly the video [Video file](https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/rk4singlestep.m)
+The output of the MATLAB Script will be a video file. To view directly the video [Click here](https://github.com/adarshkashyap15/Lorenz-1963-problem-solver/blob/main/lorentz_animation.mp4)
 
 ## Acknowledgement
 This work is done with the reference of YouTube video of Steven L. Brunton. You can find the video link below.
