@@ -27,4 +27,6 @@ This work is done with the reference of YouTube video of Steven L. Brunton. You 
 [Steven Brunton video link](https://youtu.be/LRF4dGP4xeo)
 
 For more such videos you can visit his youtube channel
-[Steven Youtube channel](https://www.youtube.com/@Eigensteve)
+[Steve Brunton](https://www.youtube.com/@Eigensteve)
+
+To read more about Steven L. Brunton [Click here](https://www.me.washington.edu/facultyfinder/steve-brunton)
