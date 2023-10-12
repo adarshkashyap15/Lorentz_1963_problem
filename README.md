@@ -18,5 +18,5 @@ I have attached two MATLAB files. The first file is main code that will give you
 ## Function Code
 I have attached three MATLAB files. These files are functions which are called in the main file. In MATLAB we can make functions in different file and then call them in the main code.
 1. [Runge Kutta 4](https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/rk4singlestep.m)
-2. [MATLAB Script](https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/Lorentz_problem_1963_multiple_conditions.m)
+2. [Lorenz](https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/lorentz_function.m)
 3. [MATLAB Script](https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/Lorentz_problem_1963_multiple_conditions.m)
