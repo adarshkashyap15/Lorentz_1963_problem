@@ -12,6 +12,6 @@ You can install it using the link [MATLAB](https://www.mathworks.com/products/ma
 
 ## Main Code
 I have attached two MATLAB files.
-1. MATLAB script
-2. MATLAB Live script
+1. [MATLAB Script](https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/lorenz-1963.pdf)
+2. [MATLAB Live Script](https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/lorenz-1963.pdf)
 
