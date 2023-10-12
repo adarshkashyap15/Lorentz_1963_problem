@@ -8,6 +8,6 @@ The Lorenz equations are a set of three differential equations that model the be
 
 ## MATLAB Code
 This project is done in MATLAB. So it is a must to install MATLAB or use it online.  
-You can install it using the link [Download MATLAB](https://www.mathworks.com/products/matlab.html).
+You can install it using the link [MATLAB](https://www.mathworks.com/products/matlab.html).
 
 
