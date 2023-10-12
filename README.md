@@ -21,6 +21,9 @@ There are three MATLAB files. These files are functions which are called in the 
 2. [Lorenz equations for single initial condition](https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/lorentz_function.m)
 3. [Lorenz equations for cube of initial conditions](https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/lorentz3d_function.m)
 
+## Results
+The output of the MATLAB Script will be a video file. To view directly the video [Video file](https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/rk4singlestep.m)
+
 ## Acknowledgement
 This work is done with the reference of YouTube video of Steven L. Brunton. You can find the video link below.
 
