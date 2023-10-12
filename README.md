@@ -11,6 +11,6 @@ This project is done in MATLAB. So it is a must to install MATLAB or use it onli
 You can install it using the link [MATLAB](https://www.mathworks.com/products/matlab.html).
 
 ## Main Code
-I have attached two MATLAB filkes.
+I have attached two MATLAB files.
 
 
