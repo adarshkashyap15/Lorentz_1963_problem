@@ -7,7 +7,7 @@ The Lorenz equations are a set of three differential equations that model the be
 <img src="https://github.com/adarshkashyap15/Lorentz_1963_problem/blob/main/Project%20logo.jpg" alt="GitHub Logo" width="300" height="300" />
 
 ## MATLAB Code
-This project is done in MATLAB. So it is must to install MATLAB or use it online.
-You can install it using the link
-[Link to MATLAB](https://www.mathworks.com/products/matlab.html)
+This project is done in MATLAB. So it is a must to install MATLAB or use it online.  
+You can install it using the link [Download MATLAB](https://www.mathworks.com/products/matlab.html).
+
 
